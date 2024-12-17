@@ -7,6 +7,9 @@ Please keep the existence and all info regarding this alpha test private. The pu
 ## Download
 The Prometheus Pre-Alpha build can be downloaded [here](http://icode4.coffee/files/Prometheus/Prometheus_PreAlpha.zip). Upon running you may be prompted to download an updated version, should you accept the latest version will be downloaded and installed automatically.
 
+## Notes
+This build is still very rough around the edges and you will encounter issues while using it. This is a "debug" build that has not been optimized and will most likely perform poorly (low FPS, etc). This is done intentionally so that extra debugging information can be exposed via exception/assert dialogs when issues or crashes occur.
+
 ## How to Use
 I've put together some really half-assed videos that cover how to setup and use Prometheus which can be found in the following [youtube playlist](https://www.youtube.com/playlist?list=PLBOX21CcPFvKOpEI89GYJ-YF7TeA-bpte). I highly recommend watching these videos at least once to get familiar with how to use and navigate around Prometheus.
 

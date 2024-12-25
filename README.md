@@ -2,16 +2,18 @@
 Welcome to the Prometheus Pre-Alpha test! This page contains some useful resources for learning how to use Prometheus, open issues, and how to report new issues.
 
 ## Rules
-Please keep the existence and all info regarding this alpha test private. The purpose of this pre-alpha test is to get some initial feedback and testing before a public alpha build is released. To keep the element of "surprise" please refrain from posting any information, pictures, videos, or distributing builds of Prometheus to anyone outside of the pre-alpha test.
+This beta is not private but has not been advertised outside of the RemnantMods discord server as it's still a little rough around the edges for public advertisement. Once I complete some more features (namely MCC BSP conversions) and fix some more bugs I will open source the code base and advertise it on twitter. Until then I'd rather not flood the discord server with people asking when it will be done or why such-and-such feature isn't available.
 
 ## Download
-The Prometheus Pre-Alpha build can be downloaded [here](http://icode4.coffee/files/Prometheus/Prometheus_PreAlpha.zip). Upon running you may be prompted to download an updated version, should you accept the latest version will be downloaded and installed automatically.
+The Prometheus Pre-Alpha build can be downloaded [here](http://icode4.coffee/files/Prometheus/Prometheus_0.9.12.163_PreAlpha.zip). Upon running you may be prompted to download an updated version, should you accept the latest version will be downloaded and installed automatically.
 
 ## Notes
 This build is still very rough around the edges and you will encounter issues while using it. This is a "debug" build that has not been optimized and will most likely perform poorly (low FPS, etc). This is done intentionally so that extra debugging information can be exposed via exception/assert dialogs when issues or crashes occur.
 
+Functionality related to importing MCC tags is not available in the pre-alpha builds. MCC BSP imports still need some additional work for shader conversions and will be excluded from the builds until that work is finished.
+
 ## How to Use
-I've put together some really half-assed videos that cover how to setup and use Prometheus which can be found in the following [youtube playlist](https://www.youtube.com/playlist?list=PLBOX21CcPFvKOpEI89GYJ-YF7TeA-bpte). I highly recommend watching these videos at least once to get familiar with how to use and navigate around Prometheus.
+I've put together some really half-assed videos that cover how to setup and use Prometheus which can be found in the following [youtube playlist](https://www.youtube.com/playlist?list=PLBOX21CcPFvKOpEI89GYJ-YF7TeA-bpte). I highly recommend watching these videos at least once to get familiar with how to use and navigate around Prometheus. Note that these videos were made for the pre-alpha testers before the pre-alpha build was made public. They are very rough and I will look into recording newer more refined versions sometime soon.
 
 ## Reporting Bugs
 Before creating a bug report make sure you're on the most recent version and check the [issues](https://github.com/grimdoomer/Prometheus-Pre-Alpha/issues) section to see if your issue/bug has already been reported. It would also be a good idea to check the [Known Issues](https://github.com/grimdoomer/Prometheus-Pre-Alpha/issues/1) page to see if it contains the issue/bug you're experiencing.

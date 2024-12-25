@@ -2,7 +2,7 @@
 Welcome to the Prometheus Pre-Alpha test! This page contains some useful resources for learning how to use Prometheus, open issues, and how to report new issues.
 
 ## Rules
-This beta is not private but has not been advertised outside of the RemnantMods discord server as it's still a little rough around the edges for public advertisement. Once I complete some more features (namely MCC BSP conversions) and fix some more bugs I will open source the code base and advertise it on twitter. Until then I'd rather not flood the discord server with people asking when it will be done or why such-and-such feature isn't available.
+This beta is not private but has not been advertised outside of the RemnantMods discord server as it's still a little rough around the edges for public advertisement. Once I complete some more features (namely MCC BSP conversions) and fix some more bugs I'll open source the project and advertise it on twitter. Until then I'd rather not flood the discord server with people asking when it'll be done or why such-and-such feature isn't available.
 
 ## Download
 The Prometheus Pre-Alpha build can be downloaded [here](http://icode4.coffee/files/Prometheus/Prometheus_0.9.12.163_PreAlpha.zip). Upon running you may be prompted to download an updated version, should you accept the latest version will be downloaded and installed automatically.

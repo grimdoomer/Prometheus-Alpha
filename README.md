@@ -14,6 +14,9 @@ Functionality related to importing MCC tags is not available in the alpha builds
 ## How to Use
 I've put together some really half-assed videos that cover how to setup and use Prometheus which can be found in the following [youtube playlist](https://www.youtube.com/playlist?list=PLBOX21CcPFvKOpEI89GYJ-YF7TeA-bpte). I highly recommend watching these videos at least once to get familiar with how to use and navigate around Prometheus. Note that these videos were made for the pre-alpha testers before the alpha build was made public. They are very rough and I will look into recording newer more refined versions sometime soon.
 
+## Questions/Help
+If you have questions or need help using Prometheus you can join the [Remnant Mods discord](https://discord.gg/HwjyBRMNnK) server and ask in the Prometheus channel.
+
 ## Reporting Bugs
 Before creating a bug report make sure you're on the most recent version and check the [issues](https://github.com/grimdoomer/Prometheus-Alpha/issues) section to see if your issue/bug has already been reported. It would also be a good idea to check the [Known Issues](https://github.com/grimdoomer/Prometheus-Alpha/issues/1) page to see if it contains the issue/bug you're experiencing.
 

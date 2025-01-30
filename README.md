@@ -33,3 +33,6 @@ When reporting a new issue/bug please try to include as much detail as possible 
   ```
 - If possible include screenshots that may help illustrate and show the issue/bug (these can be copy pasted into github without needing to upload elsewhere).
 - If an exception or assert dialog was shown please screenshot and if possible copy ALL of the exception info into the issue report (you can format the exception info into a code block using [triple backticks](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code)).
+
+## Attribution
+Prometheus uses icons made by Freepik, Pixel perfect, Uniconlabs, Roundicons, Dave Gandy, Muhammad_Usman, Royyan Wijaya, Dimitry Miroliubov, vectaicon, and Good Ware from [www.flaticon.com](www.flaticon.com).

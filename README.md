@@ -4,7 +4,7 @@ Welcome to the Prometheus Alpha test! Prometheus is a modding tool for the Origi
 https://github.com/user-attachments/assets/1e61f729-cf7a-43f7-bbfb-86bdddd36c35
 
 ## Download
-The Prometheus Pre-Alpha build can be downloaded [here](http://icode4.coffee/files/Prometheus/Prometheus_0.12.13.447_PreAlpha.zip). Upon running you may be prompted to download an updated version, should you accept the latest version will be downloaded and installed automatically.
+The Prometheus Pre-Alpha build can be downloaded [here](https://icode4.coffee/files/Prometheus/Prometheus_0.12.13.447_PreAlpha.zip). Upon running you may be prompted to download an updated version, should you accept the latest version will be downloaded and installed automatically.
 
 ## Notes
 This build is still very rough around the edges and you will encounter issues while using it. This is a "debug" build that has not been optimized and will most likely perform poorly (low FPS, etc). This is done intentionally so that extra debugging information can be exposed via exception/assert dialogs when issues or crashes occur.
